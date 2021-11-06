@@ -1,0 +1,62 @@
+
+.logo{
+    text-align:center; 
+    margin-top: 5rem; 
+}
+
+.search {
+    background-color: #EEEE;
+    width: 90%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.button {
+    text-align: center;
+    width: fit-content;
+    display: inline-block;
+}
+.buttons {
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+.textbox {
+    padding-top: 0.2rem;
+}
+
+.googletext{
+    padding-top: 0.3rem;
+}
+
+.footer {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.footer1{
+    background-color: #7EE5DA;
+}
+.footer2{
+    background-color: #70CCC2;
+}
+
+.footer3{
+    background-color: #62B3AA;    
+}
+
+.footer1, .footer2, .footer3 {
+    display: inline-block;
+    text-align: center;
+    width: 33%;
+    height: 6rem;
+    padding: auto;
+    margin: 1.5px;
+}
+.tables{
+    width: 100%;
+}
+
+
+
